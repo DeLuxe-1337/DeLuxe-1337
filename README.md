@@ -1,5 +1,5 @@
 <center>
-  <h6>DeLuxe's GitHub Stats</h6>
+  <h1>DeLuxe's GitHub Stats</h1>
 </center>
 <hr>
 <a>
