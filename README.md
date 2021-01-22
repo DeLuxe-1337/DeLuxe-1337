@@ -1,7 +1,7 @@
 <center>
   <h2>DeLuxe's GitHub Stats</h2>
 </center>
-<hr>
+
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeLuxe1337001&count_private=true&show_icons=true&theme=material-palenight"/>
 </a>
