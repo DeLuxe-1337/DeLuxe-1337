@@ -3,7 +3,7 @@
 </center>
 
 <a>
-  <img align="center" src="https://komarev.com/ghpvc/?username=DeLuxe1337001&label=Visitor%20count&color=ff00ff&style=flat"/>
+  <img align="center" src="https://komarev.com/ghpvc/?username=DeLuxe1337001&label=Visitor%20count&color=bf8de2&style=flat"/>
 </a>
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeLuxe1337001&count_private=true&show_icons=true&theme=material-palenight"/>
